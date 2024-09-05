@@ -2181,7 +2181,7 @@
               {
                 "min_level": 40,
                 "max_level": 40,
-                "species": "SPECIES_HAUNTERMA"
+                "species": "SPECIES_HAUNTER"
               },
               {
                 "min_level": 40,
@@ -2211,7 +2211,7 @@
               {
                 "min_level": 38,
                 "max_level": 38,
-                "species": "SPECIES_HAUNTERMA"
+                "species": "SPECIES_HAUNTER"
               },
               {
                 "min_level": 36,
@@ -2556,7 +2556,7 @@
               {
                 "min_level": 15,
                 "max_level": 15,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 15,
@@ -2576,7 +2576,7 @@
               {
                 "min_level": 14,
                 "max_level": 14,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 16,
@@ -7222,7 +7222,7 @@
               {
                 "min_level": 29,
                 "max_level": 29,
-                "species": "SPECIES_POULTEAGEIST"
+                "species": "SPECIES_POLTEAGEIST"
               },
               {
                 "min_level": 27,
@@ -7341,7 +7341,7 @@
               {
                 "min_level": 40,
                 "max_level": 40,
-                "species": "SPECIES_HAUNTERMA"
+                "species": "SPECIES_HAUNTER"
               },
               {
                 "min_level": 40,
@@ -7361,7 +7361,7 @@
               {
                 "min_level": 38,
                 "max_level": 38,
-                "species": "SPECIES_HAUNTERMA"
+                "species": "SPECIES_HAUNTER"
               },
               {
                 "min_level": 42,
@@ -7371,7 +7371,7 @@
               {
                 "min_level": 42,
                 "max_level": 42,
-                "species": "SPECIES_HAUNTERMA"
+                "species": "SPECIES_HAUNTER"
               },
               {
                 "min_level": 42,
@@ -9777,7 +9777,7 @@
               {
                 "min_level": 28,
                 "max_level": 28,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 28,
@@ -9787,7 +9787,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 29,
@@ -9846,7 +9846,7 @@
               {
                 "min_level": 28,
                 "max_level": 28,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 28,
@@ -9856,7 +9856,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 29,
@@ -9915,7 +9915,7 @@
               {
                 "min_level": 28,
                 "max_level": 28,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 28,
@@ -9925,7 +9925,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 29,
@@ -9984,7 +9984,7 @@
               {
                 "min_level": 28,
                 "max_level": 28,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 28,
@@ -9994,7 +9994,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 29,
@@ -10053,7 +10053,7 @@
               {
                 "min_level": 28,
                 "max_level": 28,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 28,
@@ -10063,7 +10063,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 29,
@@ -10122,7 +10122,7 @@
               {
                 "min_level": 28,
                 "max_level": 28,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 28,
@@ -10132,7 +10132,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 29,
@@ -10191,7 +10191,7 @@
               {
                 "min_level": 28,
                 "max_level": 28,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 28,
@@ -10201,7 +10201,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 29,
@@ -10260,7 +10260,7 @@
               {
                 "min_level": 28,
                 "max_level": 28,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 28,
@@ -10270,7 +10270,7 @@
               {
                 "min_level": 30,
                 "max_level": 30,
-                "species": "SPECIES_GROWLITH_HISUI"
+                "species": "SPECIES_GROWLITHE_HISUI"
               },
               {
                 "min_level": 29,
@@ -11994,22 +11994,22 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_DUSCLOPS"
+                "species": "SPECIES_HONEDGE"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_DUSCLOPS"
+                "species": "SPECIES_HONEDGE"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_DUSCLOPS"
+                "species": "SPECIES_HONEDGE"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_DUSCLOPS"
+                "species": "SPECIES_HONEDGE"
               },
               {
                 "min_level": 5,
@@ -12024,12 +12024,12 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_DUSCLOPS"
+                "species": "SPECIES_HONEDGE"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_DUSCLOPS"
+                "species": "SPECIES_HONEDGE"
               },
               {
                 "min_level": 5,
